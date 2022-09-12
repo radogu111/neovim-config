@@ -1,0 +1,20 @@
+local Color, colors, Group, groups, styles = require('colorbuddy').setup()
+
+Color.new('base03', '#0c1014')
+Color.new('base02', '#11151c')
+Color.new('base01', '#091f2e')
+Color.new('base00', '#0a3749')
+Color.new('base0', '#245361')
+Color.new('base1', '#599cab')
+Color.new('base2', '#99d1ce')
+Color.new('base3', '#d3ebe9')
+Color.new('red', '#c23127')
+Color.new('orange', '#d26937')
+Color.new('yellow', '#edb443')
+Color.new('magenta', '#888ca6')
+Color.new('violet', '#4e5166')
+Color.new('blue', '#195466')
+Color.new('cyan', '#33859E')
+Color.new('green', '#2aa889')
+
+
